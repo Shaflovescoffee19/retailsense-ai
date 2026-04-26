@@ -1,4 +1,4 @@
-# 🧠 RetailSense AI — AI-Powered Retail Analytics Assistant
+# 🧠 RetailSense AI -> AI-Powered Retail Analytics Assistant
 
 > **Ask business questions in plain English. Get SQL, interactive charts, and AI-generated insights — instantly.**
 
